@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite Portfolio
 
 Personal Portfolio Made with React and TailwindCSS
 
