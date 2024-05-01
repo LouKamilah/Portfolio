@@ -20,13 +20,9 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%20black?style=for-the-badge&logo=javascript&logoSize=auto)
-
-![TailwindCss](https://img.shields.io/badge/TailwindCss%20-%20black?style=for-the-badge&logo=tailwindcss&logoSize=auto)
-
-![React](https://img.shields.io/badge/React%20-%20black?style=for-the-badge&logo=react&logoSize=auto)
-
-![Vite](https://img.shields.io/badge/Vite%20-%20black?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto)
+[![JavaScript](https://img.shields.io/badge/JavaScript%20-%20black?style=for-the-badge&logo=javascript&logoSize=auto)]()
+[![TailwindCss](https://img.shields.io/badge/TailwindCss%20-%20black?style=for-the-badge&logo=tailwindcss&logoSize=auto)]()
+[![React](https://img.shields.io/badge/React%20-%20black?style=for-the-badge&logo=react&logoSize=auto)]()
+[![Vite](https://img.shields.io/badge/Vite%20-%20black?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto)]()
 
 Give a ⭐ if you like my portfolio!
