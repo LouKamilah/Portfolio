@@ -9,7 +9,7 @@
 
 This project was built using these technologies.
 
-- React.js
+- React
 - Node.js
 - Vite
 - VsCode
