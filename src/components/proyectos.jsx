@@ -5,7 +5,7 @@ const proyectos = [
     name: "Sitio Web 'Ariane'",
     img: "/proyecto-1.png",
     descripcion:
-      "Sitio Web para empresa de Metalurgia. Conectada a una base de datos y realizada con MVC",
+      "Sitio Web para empresa Ariane Ingeniería. Conectada a una base de datos y realizada con MVC",
     link: "https://ariane.cl",
     svg1: (
       <svg
