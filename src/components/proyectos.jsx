@@ -254,7 +254,7 @@ const proyectos = [
     name: "Tic Tac Toe",
     img: "/proyecto-4.png",
     descripcion: "Juego Tic Tac Toe realizado con JavaScript",
-    link: "https://camilaoya-portfolio-page.netlify.app",
+    link: "https://elgato2000.netlify.app",
     svg1: (
       <svg
         className="size-7"

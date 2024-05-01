@@ -24,7 +24,7 @@ const social = [
   },
 
   {
-    name: "Linkedin",
+    name: "Linkedln",
     link: "https://www.linkedin.com/in/camila-oyarzun-rodriguez/",
     svg: (
       <svg
