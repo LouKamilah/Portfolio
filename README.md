@@ -3,7 +3,6 @@
   <a href="https://camilaoya-portfolio-page.netlify.app" target="_blank"> Link </a>
 </h2>
 
-![image](https://github.com/LouKamilah/Portfolio/blob/master/screen.png)
 
 ## Desarrollado con
 
