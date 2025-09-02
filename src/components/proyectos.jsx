@@ -238,7 +238,7 @@ const proyectos = [
     name: "Portfolio",
     img: "/proyecto-3.png",
     descripcion: "Portfolio Personal realizado con React",
-    link: "https://camilaoya-portfolio-page.netlify.app",
+    link: "https://github.com/LouKamilah/Portfolio",
     svg1: (
       <svg
         className="size-7"
