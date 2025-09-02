@@ -38,10 +38,6 @@ export function Hero() {
           <span className="text-yellow-300">
             diseño web y la ciencia de datos.
           </span>{" "}
-          Me gusta crear experiencias{" "}
-          <span className="text-green-300">
-            interactivas y visualmente atractivas.
-          </span>
         </p>
       </article>
     </section>
