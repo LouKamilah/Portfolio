@@ -32,11 +32,11 @@ export function Hero() {
           data-aos-duration="2000"
           className="text-2xl text-balance text-gray-300/90"
         >
-          No soy un robot,
-          <span className="text-sky-300"> soy Junior Web Developer </span>
+          Soy Camila,
+          <span className="text-sky-300"> estudiante de informática </span>
           apasionada por el{" "}
           <span className="text-yellow-300">
-            diseño web y la programación.
+            diseño web y la ciencia de datos.
           </span>{" "}
           Me gusta crear experiencias{" "}
           <span className="text-green-300">
