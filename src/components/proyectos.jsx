@@ -125,6 +125,7 @@ const proyectos = [
     img: "/proyecto-2.png",
     descripcion:
       " Sistema logístico con CRUD, privilegios, gráficos, informes PDF, escaneo códigos de barras, usando PHP, MySQL y TailwindCSS.",
+    link: "https://github.com/LouKamilah/FenixLegacy-php",
     svg1: (
       <svg
         className="size-7"
