@@ -33,10 +33,10 @@ export function Hero() {
           className="text-2xl text-balance text-gray-300/90"
         >
           Soy Camila,
-          <span className="text-sky-300"> estudiante de informática </span>
+          <span className="text-sky-300"> ingenieria en informatica </span>
           apasionada por el{" "}
           <span className="text-yellow-300">
-            diseño web y la ciencia de datos.
+            analisis de datos y el desarrollo web
           </span>{" "}
         </p>
       </article>

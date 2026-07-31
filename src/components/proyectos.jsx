@@ -300,10 +300,11 @@ const proyectos = [
     ),
   },
   {
-    name: "Tic Tac Toe",
+    name: "TeraMED",
     img: "/proyecto-4.png",
-    descripcion: "Juego Tic Tac Toe realizado con JavaScript",
-    link: "https://elgato2000.netlify.app",
+    descripcion:
+      "Landing Page para sitio de insumos médicos, realizada con PHP y TailwindCSS",
+    link: "https://teramed.netlify.app/",
     svg1: (
       <svg
         className="size-7"
