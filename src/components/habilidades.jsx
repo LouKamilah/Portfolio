@@ -187,11 +187,7 @@ const habilidades = [
 
 export function Habilidades() {
   return (
-    <section
-      className="w-full md:w-[720px] container mx-auto"
-      data-aos="fade-left"
-      data-aos-duration="1500"
-    >
+    <section className="w-full md:w-[720px] container mx-auto">
       <h2 className="flex gap-2 items-center text-4xl md:text-4xl font-bold mb-8 text-white">
         <svg
           className="size-9 mr-3"

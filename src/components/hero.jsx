@@ -9,8 +9,6 @@ export function Hero() {
       <article>
         <h2 className="flex gap-2 items-center text-4xl md:text-5xl font-bold mb-6 text-white">
           <svg
-            data-aos="fade-right"
-            data-aos-duration="1000"
             className="mt-2 size-9 mr-2"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
@@ -22,16 +20,10 @@ export function Hero() {
               className="color000000 svgShape"
             ></path>
           </svg>
-          <span data-aos="fade-right" data-aos-duration="1000">
-            Camila Oyarzún{" "}
-          </span>
+          <span>Camila Oyarzún </span>
         </h2>
 
-        <p
-          data-aos="fade-right"
-          data-aos-duration="2000"
-          className="text-2xl text-balance text-gray-300/90"
-        >
+        <p className="text-2xl text-balance text-gray-300/90">
           Soy Camila,
           <span className="text-sky-300"> ingenieria en informatica </span>
           apasionada por el{" "}

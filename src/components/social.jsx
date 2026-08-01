@@ -59,12 +59,7 @@ const social = [
 
 export function Social() {
   return (
-    <section
-      id="redes"
-      className="w-full md:w-[720px] container mx-auto"
-      data-aos="fade-right"
-      data-aos-duration="1500"
-    >
+    <section id="redes" className="w-full md:w-[720px] container mx-auto">
       <h2 className="flex gap-2 items-center text-4xl md:text-4xl font-bold mb-8 text-white">
         <svg
           className="size-10 mr-2"

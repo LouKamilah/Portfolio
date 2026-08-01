@@ -3,11 +3,7 @@ import pdf from "/CV-2026.pdf";
 
 export function PdfDownloadButton() {
   return (
-    <div
-      className="mx-auto text-right w-full md:w-[720px] my-10"
-      data-aos="fade-left"
-      data-aos-duration="2000"
-    >
+    <div className="mx-auto text-right w-full md:w-[720px] my-10">
       <a
         href={pdf}
         download="CV-CAMILA-2026.pdf"
